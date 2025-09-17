@@ -26,3 +26,10 @@ Welcome to Sturdy Octo Disco, a fun and creative project designed to overlay sun
 - Practicing computer vision workflows.
 
 Feel free to fork, contribute, or customize this project for your creative needs!
+<img width="1264" height="902" alt="image" src="https://github.com/user-attachments/assets/ea02b6a0-c1ec-41a2-a1d8-7a9df1a47bbd" />
+<img width="1301" height="592" alt="image" src="https://github.com/user-attachments/assets/6ad0a80f-45e9-43a1-859e-40277c1e2cfa" />
+<img width="1303" height="467" alt="image" src="https://github.com/user-attachments/assets/3ca32713-a22e-4b02-80ae-f48924a9020b" />
+<img width="1270" height="746" alt="image" src="https://github.com/user-attachments/assets/99208119-7205-479d-ae03-5dd34f3693ba" />
+<img width="1330" height="901" alt="image" src="https://github.com/user-attachments/assets/615df29e-1843-48c3-801d-b33ff2af6c85" />
+<img width="1362" height="887" alt="image" src="https://github.com/user-attachments/assets/3209e18c-4d5a-4f29-8a99-d9b0f42229cf" />
+
